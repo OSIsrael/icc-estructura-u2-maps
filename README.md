@@ -1,5 +1,5 @@
 # Non-Linear Data Structures 
-
+![alt text]({EFE0C41C-63F6-4F96-A0A3-F7902F12C1BE}.png)
 ## Getting Started
 
 Este repositorio se refiere a la segunda unidad de Estructuras de Datos, donde se cubren estructuras como sets y diccionarios
