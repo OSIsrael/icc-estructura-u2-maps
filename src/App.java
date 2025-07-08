@@ -11,10 +11,10 @@ public class App {
         runMapExamlpe();
 
         // Ejecuta el ejemplo de gestión de empleados usando HashMap
-        runEmpleadoExample();
+        //runEmpleadoExample();
 
         // Ejecuta los ejercicios de sumatoria y anagramas
-        runEjerccios();
+        //runEjerccios();
     }
 
     private static void runEmpleadoExample() {
@@ -22,6 +22,13 @@ public class App {
     }
 
     private static void runMapExamlpe() {
+        Mapa mapa = new Mapa();
+        mapa.ejemploConHashMap();
+        mapa.ejemploConLinkedHashMap();
+        mapa.ejemploConTreeMap();
+    }
+
+    private static void runEjercicios() {
         throw new UnsupportedOperationException("Not implemented yet");
     }
 
